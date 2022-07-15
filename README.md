@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ingrid Mabel Luz
-- 🌱 I’m currently learning Python | MySQL | C | Mathematica
+- 🌱 I’m currently learning Python | SQL | C | Mathematica
 - 📫 How to reach me: https://www.linkedin.com/in/ingrid-mabel-luz-45a879178/
 
 <!---
